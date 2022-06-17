@@ -1,4 +1,4 @@
-# Projeto sobre GITHUB. 
+# Projeto sobre GitHub. 
 Bootcamp (Junho/2022)
 
 ## LINKS ÚTEIS: 
